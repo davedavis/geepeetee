@@ -1,0 +1,11 @@
+pygments
+openai
+ruff
+black
+rich
+pandas
+langchain
+PyPDF2
+faiss-cpu
+tiktoken
+streamlit
